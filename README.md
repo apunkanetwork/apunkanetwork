@@ -9,6 +9,6 @@ apunkanetwork/apunkanetwork is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 <br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Clinton-Abraham}/count.svg"/></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{apunkanetwork}/count.svg"/></p> 
 
 <div align="center">
