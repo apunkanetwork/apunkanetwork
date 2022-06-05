@@ -12,10 +12,6 @@ You can click the Preview link to take a look at your changes.
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{apunkanetwork}/count.svg"/></p> 
 
 <div align="center"> <br>
-<br>
-
-
-
 
 <p align="center">
    <a href="https://telegram.dog/Oxyver_Owner"><img src="https://img.shields.io/badge/Contact Me-30302f?style=flat&logo=telegram" alt="telegram badge"/>
